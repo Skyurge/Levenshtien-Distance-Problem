@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  background-color: chocolate;
+}
+.output {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: large;
+  padding-top: 10%;
+}
+.input {
+  font-family: "Times New Roman", Times, serif;
+  font-size: large;
+}
+.animate__animated.animate__bounce {
+  --animate-duration: 1s;
+}
